@@ -1,6 +1,8 @@
 import React from 'react'
 import {HiArrowNarrowRight} from 'react-icons/hi'
 import { Link } from 'react-scroll';
+import Typed from 'react-typed';
+
 const Home = () => {
   return (
     <div name='home' className='w-full h-screen bg-[#000000] font-serif'>
@@ -9,8 +11,8 @@ const Home = () => {
             <div className='text-white text-3xl md:text-5xl mt-5'>
                 <h2>Hi, I am Abhishek</h2>
                 <h2>An aspiring </h2> 
-                <h2 className='text-purple-600 text-3xl md:text-5xl'> Data Scientist /</h2> 
-                <h2 className='text-purple-600 text-3xl md:text-5xl'> Machine Learning Engineer.</h2> 
+                <h2 className='text-purple-600 text-3xl md:text-5xl'>Data Scientist</h2> 
+                <h2 className='text-purple-600 text-3xl md:text-5xl'> <Typed strings={['Machine Learning Engineer.']} typeSpeed={80}/></h2> 
                 <p className='text-white text-xl mt-5'>Machine Learning, Deep Learning & Computer Vision</p>
             </div>
             <div>
