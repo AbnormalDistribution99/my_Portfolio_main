@@ -29,63 +29,63 @@ const Skills = () => {
                 </p>
             </div>
                 <div className='w-full grid grid-cols-4 sm:grid-cols-4 gap-4 text-center py-8'>
-                    <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
+                    <div className='shadow-md shadow-[#501750] hover:scale-110 duration-500'>
                         <img className='w-20 mx-auto' src={AWS} alt='AWS Icon'/>
                         <p className='my-4 text-green-400'>AWS</p>
                     </div>
-                    <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
+                    <div className='shadow-md shadow-[#501750] hover:scale-110 duration-500'>
                         <img className='w-20 mx-auto' src={Keras} alt='Keras Icon'/>
                         <p className='my-4 text-green-400'>Keras</p>
                     </div>
-                    <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
+                    <div className='shadow-md shadow-[#501750] hover:scale-110 duration-500'>
                         <img className='w-20 mx-auto' src={Numpy} alt='Numpy Icon'/>
                         <p className='my-4 text-green-400'>Numpy</p>
                     </div>
-                    <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
+                    <div className='shadow-md shadow-[#501750] hover:scale-110 duration-500'>
                         <img className='w-20 mx-auto' src={Opencv} alt='Opencv Icon'/>
                         <p className='my-4 text-green-400'>Opencv</p>
                     </div>
-                    <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
+                    <div className='shadow-md shadow-[#501750] hover:scale-110 duration-500'>
                         <img className='w-20 mx-auto' src={Pandas} alt='Pandas Icon'/>
                         <p className='my-4 text-green-400'>Pandas</p>
                     </div>
-                    <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
+                    <div className='shadow-md shadow-[#501750] hover:scale-110 duration-500'>
                         <img className='w-20 mx-auto' src={Pytorch} alt='Pytorch Icon'/>
                         <p className='my-4 text-green-400'>Pytorch</p>
                     </div>
-                    <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
+                    <div className='shadow-md shadow-[#501750] hover:scale-110 duration-500'>
                         <img className='w-20 mx-auto' src={Seaborn} alt='Seaborn Icon'/>
                         <p className='my-4 text-green-400'>Seaborn</p>
                     </div>
-                    <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
+                    <div className='shadow-md shadow-[#501750] hover:scale-110 duration-500'>
                         <img className='w-20 mx-auto' src={Sklearn} alt='Sklearn Icon'/>
                         <p className='my-4 text-green-400'>Sklearn</p>
                     </div>
-                    <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
+                    <div className='shadow-md shadow-[#501750] hover:scale-110 duration-500'>
                         <img className='w-20 mx-auto' src={Tensorflow} alt='Tensorflow Icon'/>
                         <p className='my-4 text-green-400'>Tensorflow</p>
                     </div>
-                    <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
+                    <div className='shadow-md shadow-[#501750] hover:scale-110 duration-500'>
                         <img className='w-20 mx-auto' src={SQL} alt='SQL Icon'/>
                         <p className='my-4 text-green-400'>SQL</p>
                     </div>
-                    <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
+                    <div className='shadow-md shadow-[#501750] hover:scale-110 duration-500'>
                         <img className='w-20 mx-auto' src={Python} alt='Python Icon'/>
                         <p className='my-4 text-green-400'>Python</p>
                     </div>
-                    <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
+                    <div className='shadow-md shadow-[#501750] hover:scale-110 duration-500'>
                         <img className='w-20 mx-auto' src={Jupyter} alt='Jupyter Icon'/>
                         <p className='my-4 text-green-400'>Jupyter Notebook</p>
                     </div>
-                    <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
+                    <div className='shadow-md shadow-[#501750] hover:scale-110 duration-500'>
                         <img className='w-20 mx-auto' src={JavaScript} alt='JavaScript Icon'/>
                         <p className='my-4 text-green-400'>JavaScript</p>
                     </div>
-                    <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
+                    <div className='shadow-md shadow-[#501750] hover:scale-110 duration-500'>
                         <img className='w-20 mx-auto' src={ReactJS} alt='ReactJS Icon'/>
                         <p className='my-4 text-green-400'>React JS</p>
                     </div>
-                    <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
+                    <div className='shadow-md shadow-[#501750] hover:scale-110 duration-500'>
                         <img className='w-20 mx-auto' src={PowerBI} alt='PowerBI Icon'/>
                         <p className='my-4 text-green-400'>Power BI</p>
                     </div>
