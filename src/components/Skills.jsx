@@ -20,11 +20,11 @@ const Skills = () => {
     <div name='skills' className='w-full md:h-screen bg-[black] text-white font-serif'>
         {/* Container */}
         <div className='max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full'>
-            <div classname='pb-8'>
-                <p className='text-4xl font-bold inline text-purple-600'>
+            <div classname='pb-8' >
+                <p className='text-4xl font-bold mt-10 inline text-purple-600'>
                     Skills
                 </p>
-                <p className='py-4'>
+                <p className='py-2'>
                     These are the technology stack I have worked with
                 </p>
             </div>
